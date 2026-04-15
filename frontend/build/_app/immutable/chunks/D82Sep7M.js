@@ -1,0 +1,1 @@
+import{b as p,E as c,a7 as i,a8 as l}from"./cQZEWYEV.js";import{B as u}from"./BQWQbLOb.js";function m(n,o,...s){var a=new u(n);p(()=>{const t=o()??null;a.ensure(t,t&&(r=>t(r,...s)))},c)}let e=Symbol("phosphor-svelte");function x(){return i(e)?l(e):{}}export{x as g,m as s};

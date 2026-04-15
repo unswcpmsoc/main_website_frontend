@@ -2,7 +2,7 @@
 
 Run `npm run dev` to test locally. This project uses SvelteKit for the frontend, and connects to a Django backend.
 
-Static files such as the competiiton and workshop pdfs are stored under `competitions-data` and `workshops` in the static folder. Since they were moved from the old website,
+Static files such as the competiiton and workshop pdfs are stored under `competitions-data` and `workshops` in the static-data folder. Since they were moved from the old website,
 I have just copied pasted this data across and tried to make the new website work with that is currently in those files (to save time
 having to manually rewrite all the markdown files, routing, etc).
 
@@ -29,7 +29,7 @@ under `layout.css` (especially for making the leaderboards for competitions work
 The navigation menu is provided by Bits-UI, see here: https://bits-ui.com/docs/components/navigation-menu
 
 If you are adding an workshop or competition, just do the same as you usually would for the old website creating a new folder and adding
-relevant files under `static > competitions-data` or `static > workshops`. Then go into `routes > competitions > competitions.md`
+relevant files under `static-data > competitions-data` or `static-data > workshops`. Then go into `routes > competitions > competitions.md`
 or `routes > workshops > workshops.md` and modify it with the relevant links. The website uses a markdown parser called
 Marked (https://www.npmjs.com/package/marked) to render it on the website.
 

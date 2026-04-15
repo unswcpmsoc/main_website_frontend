@@ -1,0 +1,1 @@
+import{r as e}from"../chunks/hp4PFHFv.js";const r=()=>e(302,"https://forms.gle/fmHKC48yrZq8TjEUA"),o=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{o as universal};
