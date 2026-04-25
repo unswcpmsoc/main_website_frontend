@@ -3,6 +3,7 @@
 -   Term 1 Week 3 - Greedy and Friends: [slides](programming/2026/t1w3.pdf), [problemset (pwd: cpmsoc)](https://vjudge.net/contest/793877)
 -   Term 1 Week 5 - A Didactic Dissection of Data Structures: [slides](programming/2026/t1w5.pdf), [problemset (pwd: cpmsoc)](https://vjudge.net/contest/797040)
 -   Term 1 Week 8 - Introduction to Dynamic Programming: [slides](programming/2026/t1w8.pdf), [problemset](https://vjudge.net/contest/802029), [stream](https://www.youtube.com/watch?v=77CYDRJPqBQ)
+-   Term 1 Week 10 - Graph Theory I: [slides](programming/2026/t1w10.pdf), [problemset](https://vjudge.net/contest/806361), [stream](https://www.youtube.com/watch?v=Hp5dzllwnrM)
 
 # Mathematics 2026
 -   Term 1 Week 2 - Intro to Quant:
