@@ -129,6 +129,15 @@
                     </a>
 
                     <a
+                            href="https://www.instagram.com/cpmsoc_unsw/?hl=en"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                            class="bg-[#1a1a1a] text-white font-mono text-sm py-2 px-4 hover:bg-black transition-colors"
+                    >
+                        Instagram
+                    </a>
+
+                    <a
                             href="https://calendar.google.com/calendar/u/0/r?cid=Y19mNDVmMzdjOGQzM2U2MGNlMDE4ZmMwZWU2MjcyNDdkN2Y3ODI3NDFmMmZiNmRjYjIxYjA5ZWU4YjRlYWY1YTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
                             target="_blank"
                             rel="noreferrer noopener"
