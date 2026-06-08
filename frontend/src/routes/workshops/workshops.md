@@ -30,6 +30,11 @@
     [problems](mathematics/2026/Number%20Theory%20Workshop%20Worksheet.pdf),
     [solutions](mathematics/2026/Number%20Theory%20Workshop%20Worksheet%20Solution.pdf),
     [recording](https://www.youtube.com/live/Kmek0ZAz7jc)
+-   Term 2 Week 1 - Constructing Inequalities:
+    [slides](mathematics/2026/Constructing%20Inequalities%20Workshop%20Slides.pdf),
+    [problems](mathematics/2026/Constructing%20Inequalities%20Workshop%20Worksheet.pdf),
+    [solutions](mathematics/2026/Constructing%20Inequalities%20Workshop%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/live/akF3I7ZxwQ8)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
