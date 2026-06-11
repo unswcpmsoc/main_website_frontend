@@ -30,6 +30,10 @@
     [problems](mathematics/2026/Number%20Theory%20Workshop%20Worksheet.pdf),
     [solutions](mathematics/2026/Number%20Theory%20Workshop%20Worksheet%20Solution.pdf),
     [recording](https://www.youtube.com/live/Kmek0ZAz7jc)
+-   Term 2 Week 2 - Honours Math Talk: Distribution and Mixing Properties of Modular Exponentiation:
+    [slides](mathematics/2026/Haibing_Honours_Presentation__CPMSOC_.pdf),
+    [recording](https://www.youtube.com/live/dzQC69pyB9k)
+  
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
