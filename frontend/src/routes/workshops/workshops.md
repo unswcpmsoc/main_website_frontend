@@ -33,7 +33,11 @@
 -   Term 2 Week 2 - Honours Math Talk: Distribution and Mixing Properties of Modular Exponentiation:
     [slides](mathematics/2026/Haibing_Honours_Presentation__CPMSOC_.pdf),
     [recording](https://www.youtube.com/live/dzQC69pyB9k)
-  
+-   Term 2 Week 4 - Markov Chains:
+    [slides](mathematics/2026/Markov%20Chains%20Workshop.pdf),
+    [problems](mathematics/2026/Markov%20Chains%20Worksheet.pdf),
+    [solutions](mathematics/2026/Markov%20Chains%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/watch?v=ndjkVzUswjU)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
