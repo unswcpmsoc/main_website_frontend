@@ -30,7 +30,12 @@
     [problems](mathematics/2026/Number%20Theory%20Workshop%20Worksheet.pdf),
     [solutions](mathematics/2026/Number%20Theory%20Workshop%20Worksheet%20Solution.pdf),
     [recording](https://www.youtube.com/live/Kmek0ZAz7jc)
-
+-   Term 2 Week 4 - Markov Chains:
+    [slides](mathematics/2026/Markov%20Chains%20Workshop.pdf),
+    [problems](mathematics/2026/Markov%20Chains%20Worksheet.pdf),
+    [solutions](mathematics/2026/Markov%20Chains%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/watch?v=ndjkVzUswjU)
+       
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
     [slides](programming/2025/t1w2.pdf)
