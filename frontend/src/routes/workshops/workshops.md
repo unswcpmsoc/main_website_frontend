@@ -4,6 +4,8 @@
 -   Term 1 Week 5 - A Didactic Dissection of Data Structures: [slides](programming/2026/t1w5.pdf), [problemset (pwd: cpmsoc)](https://vjudge.net/contest/797040)
 -   Term 1 Week 8 - Introduction to Dynamic Programming: [slides](programming/2026/t1w8.pdf), [problemset](https://vjudge.net/contest/802029), [stream](https://www.youtube.com/watch?v=77CYDRJPqBQ)
 -   Term 1 Week 10 - Graph Theory I: [slides](programming/2026/t1w10.pdf), [problemset](https://vjudge.net/contest/806361), [stream](https://www.youtube.com/watch?v=Hp5dzllwnrM)
+-   Term 2 Week 2 - Dynamic Programming II: [slides](programming/2026/t2w2.pdf), [problemset](https://vjudge.net/contest/821604)
+-   Term 2 Week 5 - DS++: [slides](programming/2026/t2w5.pdf), [problemset](https://vjudge.net/contest/826177), [code (template)](programming/2026/seg.cpp), [code (MNASS)](programming/2026/mnass.cpp)
 
 # Mathematics 2026
 -   Term 1 Week 2 - Intro to Quant:
