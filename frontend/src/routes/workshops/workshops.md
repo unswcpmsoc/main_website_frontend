@@ -32,6 +32,9 @@
     [problems](mathematics/2026/Number%20Theory%20Workshop%20Worksheet.pdf),
     [solutions](mathematics/2026/Number%20Theory%20Workshop%20Worksheet%20Solution.pdf),
     [recording](https://www.youtube.com/live/Kmek0ZAz7jc)
+-   Term 1 Week 11 - MATH3711 Revision Seminar:
+    [slides](mathematics/2026/3711%202026.pdf),
+    [recording](https://www.youtube.com/watch?v=j9NfX2SPxns)
 -   Term 2 Week 1 - Constructing Inequalities:
     [slides](mathematics/2026/Constructing%20Inequalities%20Workshop%20Slides.pdf),
     [problems](mathematics/2026/Constructing%20Inequalities%20Workshop%20Worksheet.pdf),
@@ -61,6 +64,9 @@
     [problems](mathematics/2026/Graph%20Theory%20Worksheet.pdf),
     [solutions](mathematics/2026/Graph%20Theory%20Worksheet%20Solutions.pdf),
     [recording](https://www.youtube.com/watch?v=5vnqAbRU7j8)
+-   Term 2 Week 11 - MATH3611 Revision Seminar:
+    [slides](mathematics/2026/MATH36115705%20Seminar%202026%203.0.pdf),
+    [recording](https://www.youtube.com/live/ymA1-y3p098)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
