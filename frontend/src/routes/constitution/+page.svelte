@@ -65,7 +65,7 @@
         2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form on Rubric.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.4 A person's membership commences on the day they purchase membership and remains valid until the end of Week Three of Term One of the following calendar year.
+        2.4 A person's membership commences on the day they complete the membership form on Rubric and remains valid until the end of Week Three of Term One of the following calendar year.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
         2.5 The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
@@ -145,14 +145,11 @@
         4.2 The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
+        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following restrictions:
     </h3>
 
     <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.3.1 No single person may simultaneously hold the positions of President and Treasurer; </li>
-        <li>4.3.1 No single person may simultaneously hold the positions of Vice-President of Technicals and Treasurer; </li>
-        <li>4.3.1 No single person may simultaneously hold the positions of Vice-President of Operations and Treasurer; and</li>
-        <li>4.3.1 The positions of the President role (4.1.1) and the two Vice-President roels (4.1.2 and 4.1.3) must be held by three distinct people. </li>
+        <li>4.3.1 The President position, the two Vice-President positions, and the Treasurer position must be held by four distinct people; </li>
     </ul>
 
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
@@ -232,7 +229,7 @@
         </li>
         <li>4.10.2 Vice-President of Technicals
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
-                <li>To oversee and coordinate the activities and administration of technical ports of the club;</li>
+                <li>To oversee and coordinate the activities and administration of technical aspects of the club, including workshops and competitions;</li>
                 <li>To plan and aid in building and maintaining the infrastructure of the society with fellow Executive members and Club members;</li>
                 <li>To liaise with departments of the University where necessary for the longevity of club activities; and</li>
                 <li>To pass on their knowledge to their successors.</li>
@@ -240,10 +237,8 @@
         </li>
         <li>4.10.1 Vice-President of Operations
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
-                <li>To oversee and coordinate the activities and administration of operations ports of the society;</li>
-                <li>To correspond with relevant club directors to ensure that social events and careers related activities run in an orderly fashion;</li>
-                <li>To plan and aid in the creation of marketing of the society for relevant events;</li>
-                <li>To liaise with sponsors and departments of the University where necessary for the longevity of club activities; and</li>
+                <li>To oversee and coordinate the activities and administration of community related-aspects of the club, including social events, career-related events and marketing; </li>
+                <li>To liaise with sponsors where necessary for the longevity of club activities; and</li>
                 <li>To pass on their knowledge to their successors.</li>
             </ol>
         </li>
