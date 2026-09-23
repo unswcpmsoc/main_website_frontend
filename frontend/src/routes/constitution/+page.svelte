@@ -59,13 +59,13 @@
         2.1 Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.2 Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form.
+        2.2 Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form on Rubric.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
+        2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form on Rubric.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.4 The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+        2.4 A person's membership commences on the day they complete the membership form on Rubric and remains valid until the end of Week Three of Term One of the following calendar year.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
         2.5 The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
@@ -133,23 +133,23 @@
     </h3>
 
     <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.1.1 Two Co-Presidents;</li>
-        <li>4.1.2 A Secretary;</li>
-        <li>4.1.3 A Treasurer;</li>
-        <li>4.1.4 An Arc Delegate; and</li>
-        <li>4.1.5 A Welfare Officer.</li>
+        <li>4.1.1 A President;</li>
+        <li>4.1.2 A Vice-President of Technicals;</li>
+        <li>4.1.3 A Vice-President of Operations;</li>
+        <li>4.1.4 A Secretary;</li>
+        <li>4.1.5 A Treasurer; and</li>
+        <li>4.1.6 A Welfare Officer.</li>
     </ul>
 
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
         4.2 The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
     </h3>
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
+        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following restrictions:
     </h3>
 
     <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.3.1 The positions of the two Co-Presidents must be held by two distinct people; and</li>
-        <li>4.3.2 No single person may simultaneously hold the positions of Co-President and Treasurer.</li>
+        <li>4.3.1 The President position, the two Vice-President positions, and the Treasurer position must be held by four distinct people; </li>
     </ul>
 
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
@@ -205,7 +205,7 @@
     </h3>
 
     <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.10.1 Co-Presidents
+        <li>4.10.1 President
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;</li>
                 <li>To oversee and coordinate the activities and administration of the club;</li>
@@ -227,16 +227,37 @@
                 <li>To pass on their knowledge to their successors.</li>
             </ol>
         </li>
-        <li>4.10.2 Secretary
+        <li>4.10.2 Vice-President of Technicals
+            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
+                <li>To oversee and coordinate the activities and administration of technical aspects of the club, including workshops and competitions;</li>
+                <li>To plan and aid in building and maintaining the infrastructure of the society with fellow Executive members and Club members;</li>
+                <li>To liaise with departments of the University where necessary for the longevity of club activities; and</li>
+                <li>To pass on their knowledge to their successors.</li>
+            </ol>
+        </li>
+        <li>4.10.1 Vice-President of Operations
+            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
+                <li>To oversee and coordinate the activities and administration of community related-aspects of the club, including social events, career-related events and marketing; </li>
+                <li>To liaise with sponsors where necessary for the longevity of club activities; and</li>
+                <li>To pass on their knowledge to their successors.</li>
+            </ol>
+        </li>
+        <li>4.10.4 Secretary
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To be responsible for receiving and replying to all correspondence on behalf of the club;</li>
                 <li>To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;</li>
                 <li>To keep relevant club papers in order;</li>
-                <li>To coordinate elections; and</li>
+                <li>To coordinate elections;</li>
                 <li>To maintain the membership list, updating when changes are made.</li>
+                <li>To be aware of the Arc funding system, its requirements and its possibilities for the club;</li>
+                <li>To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc.);</li>
+                <li>To liaise with Arc and the club’s Executive;</li>
+                <li>To have a good working knowledge of Arc forms;</li>
+                <li>To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and</li>
+                <li>To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).</li>
             </ol>
         </li>
-        <li>4.10.3 Treasurer
+        <li>4.10.5 Treasurer
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To keep and maintain all club financial records;</li>
                 <li>To hold petty cash tins etc.;</li>
@@ -256,17 +277,7 @@
                 <li>To ensure that under no circumstances are any expenses to be met without documentation.</li>
             </ol>
         </li>
-        <li>4.10.4 Arc Delegate
-            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
-                <li>To be aware of the Arc funding system, its requirements and its possibilities for the club;</li>
-                <li>To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc.);</li>
-                <li>To liaise with Arc and the club’s Executive;</li>
-                <li>To have a good working knowledge of Arc forms;</li>
-                <li>To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and</li>
-                <li>To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).</li>
-            </ol>
-        </li>
-        <li>4.10.5 Welfare Officer
+        <li>4.10.6 Welfare Officer
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To foster an inclusive culture within the Club</li>
                 <li>To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;</li>
@@ -287,7 +298,7 @@
     </ul>
 
     <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        4.11 Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+        4.11 Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, and may not be a bank signatory.
     </h3>
 
     <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
@@ -396,7 +407,7 @@
         <li>5.13.2 Each member is entitled to one vote;</li>
         <li>5.13.3 Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;</li>
         <li>5.13.4 Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.</li>
-        <li>5.13.5 Elections for Executive shall use the “optional preferential” system;</li>
+        <li>5.13.5 Elections for Executive shall use the Regular Single Transferable Vote (STV)/Instant Runoff Voting (IRV);</li>
         <li>5.13.6 In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;</li>
         <li>5.13.7 In the event a vote is completely and evenly matched, a re-vote will be held.</li>
         <li>5.13.8 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;</li>
