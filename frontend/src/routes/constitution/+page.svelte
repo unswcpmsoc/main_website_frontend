@@ -235,7 +235,7 @@
                 <li>To pass on their knowledge to their successors.</li>
             </ol>
         </li>
-        <li>4.10.1 Vice-President of Operations
+        <li>4.10.3 Vice-President of Operations
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To oversee and coordinate the activities and administration of community related-aspects of the club, including social events, career-related events and marketing; </li>
                 <li>To liaise with sponsors where necessary for the longevity of club activities; and</li>
