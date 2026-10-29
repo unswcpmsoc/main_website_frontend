@@ -76,6 +76,10 @@
     [problems](mathematics/2026/Functional%20Equations%20Worksheet.pdf),
     [solutions](mathematics/2026/Functional%20Equations%20Solutions.pdf),
     [recording](https://www.youtube.com/watch?v=XsZexehy4pA)
+-   Term 3 Week 7 - Integration Workshop
+    [slides](mathematics/2026/2026_CPMSoc_Integration.pdf),
+    [worksheet](mathematics/2026/Workshop_Worksheets_CPMSoc_Math_2026.pdf),
+    [recording](https://www.youtube.com/watch?v=l1D-N2lT4sU)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
