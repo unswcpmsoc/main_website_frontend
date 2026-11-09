@@ -124,7 +124,7 @@
                 </p>
                 <h1 class="lg:text-8xl sm:text-6xl text-5xl font-[600] mb-4">UNSW CPMSoc</h1>
                 <p class="mb-4 font-mono md:text-[14px] text-xs md:w-[90%] w-[100%]">
-                    Hi! We're the UNSW Awesome Programming and Lame Mathematics Society,
+                    Hi! We're the UNSW The Programming and Mathematics Society,
                     a student society run by and for people who love problem solving.
 
                     <br/><br/>
