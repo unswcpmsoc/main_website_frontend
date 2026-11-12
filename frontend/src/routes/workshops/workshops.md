@@ -80,6 +80,9 @@
     [slides](mathematics/2026/2026_CPMSoc_Integration.pdf),
     [worksheet](mathematics/2026/Workshop_Worksheets_CPMSoc_Math_2026.pdf),
     [recording](https://www.youtube.com/watch?v=l1D-N2lT4sU)
+-   Term 3 Week 9 - How FFT Works CPMSoc x ELSoc Talk
+    [slides](mathematics/2026/How_FFT_Works_CPMSoc_x_ELSoc.pdf),
+    [recording](https://www.youtube.com/live/Sg-MFikam5M?si=JbNbBlknv2HE43LK)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
