@@ -14,8 +14,10 @@
 </svelte:head>
 
 <div class="min-h-screen flex flex-col">
-    <AnnouncementBanner />
-    <Navigation />
+    <header class="sticky top-0 z-100">
+        <AnnouncementBanner />
+        <Navigation />
+    </header>
 
     <main class="flex-1 h-full">
         {@render children()}
