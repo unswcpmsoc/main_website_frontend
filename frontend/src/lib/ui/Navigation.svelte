@@ -19,6 +19,12 @@
 
     const events: { title: string; href: string; description: string }[] = [
         {
+            title: "Weekly Talks",
+            href: "/talks",
+            description:
+                "Undergraduate mathematics weekly talks"
+        },
+        {
             title: "Upcoming Events",
             href: "/#upcoming-events",
             description:
