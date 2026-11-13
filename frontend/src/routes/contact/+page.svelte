@@ -27,11 +27,9 @@
 
     <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
         <li><a href="https://www.instagram.com/cpmsoc_unsw/" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Instagram</a></li>
-        <li><a href="https://member.arc.unsw.edu.au/s/clubdetail?clubid=0016F00003o2esqQAA" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">SpArc</a></li>
+        <li><a href="https://campus.hellorubric.com/?s=12497" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Rubric</a></li>
         <li><a href="https://www.linkedin.com/company/cpmsoc/" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">LinkedIn</a></li>
         <li><a href="https://www.facebook.com/groups/cpmsoc" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Facebook group</a></li>
-        <li><a href="https://forms.gle/3rEeBweFcpeeF7mD6" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Mailing list</a></li>
-        <li><a href="https://www.linkedin.com/company/cpmsoc/" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">LinkedIn</a></li>
     </ul>
 
 </div>
